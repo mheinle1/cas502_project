@@ -1,0 +1,12 @@
+This document is intended as a metadata repository for data sources used in the project.
+
+Each data source entry should contain:
+- Source Name: Alias name for ease of communication
+- Origin Name: The original designation of the data source
+- Origin: url for relocating data source
+- Acquisition Date: when the data source was pulled from origin
+- Acquired By: initials of project member who acquired data
+- Brief Description: very high level description of data set, add url for origin 
+    description sheet if available.
+- Children: names of aggregate, manipulated, or derived data sets used in project.
+
