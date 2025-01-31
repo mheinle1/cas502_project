@@ -1,0 +1,57 @@
+Original Title: ACSST5Y2023.2301-Data.csv
+Title: Unemployment
+mh_01302025
+
+FIELD			COL	INDEX#	INDEX#PY	DESC					INCLUDE
+
+GEO_ID			A	1	0		unique alphanum id			Y
+NAME			B	2	1		censustract, county, state		Y
+S2301_C01_002		E	5	4		pop. AGE 16 - 19			?
+S2301_C01_003E		G	7	6		pop. AGE 20 - 24			?
+S2301_C01_004E		I	9	8		pop. AGE 25 - 29			?
+S2301_C01_005E		K	11	10		pop. AGE 30 - 34			?
+S2301_C01_006E		M	13	12		pop. AGE 35 - 44			?
+S2301_C01_007E		O	15	14		pop. AGE 45 - 54			?
+S2301_C01_008E		Q	17	16		pop. AGE 55 - 59			?
+S2301_C01_009E		S	19	18		pop. AGE 60 - 64			?
+S2301_C01_010E		U	21	20		pop. AGE 65 - 74			?
+S2301_C01_011E		W	23	22		pop. AGE >= 75				?
+S2301_C01_021E		AQ	43	42		total pop. 20 - 64			?
+S2301_C01_022E		AS	45	44		male pop. 20 - 64   			?
+S2301_C01_023E		AU	47	46		female pop. 20 - 64
+S2301_C01_028E		BE	57	56		total pop. 20 - 64 < pov level 12 mo.	?
+S2301_C01_029E		BG	59	58		total pop. 20 - 64 >= pov level 12 mo.	?
+S2301_C01_031E		BK	63	62		total pop. 25 - 64 education level	?
+S2301_C01_032E		BM	65	64		25 - 64 < high school			?
+S2301_C01_033E		BO	67	66		25 - 64 = high school			?
+S2301_C01_034E		BQ	69	68		25 - 64 > high school <= AA		?
+S2301_C01_035E		BS	71	70		25 - 64 >= BA				?
+S2301_C02_002E		BW	75	74		pop. AGE 16 - 19 % in labor force	?
+S2301_C02_003E		BY	77	76		pop. AGE 20 - 24 % in labor force	?
+S2301_C02_004E		CA	79	78		pop. AGE 25 - 29 % in labor force	?
+S2301_C02_005E		CC	81	80		pop. AGE 30 - 34 % in labor force	?
+S2301_C02_006E		CE	83	82		pop. AGE 35 - 44 % in labor force	?
+S2301_C02_007E		CG	85	84		pop. AGE 45 - 54 % in labor force	?
+S2301_C02_008E		CI	87	86		pop. AGE 55 - 59 % in labor force	?
+S2301_C02_009E		CK	89	88		pop. AGE 60 - 64 % in labor force	?
+S2301_C02_010E		CM	91	90		pop. AGE 65 - 74 % in labor force	?
+S2301_C02_011E		CO	93	92		pop. AGE >= 75 % in labor force		?
+S2301_C02_021E		DI	113	112		total pop. 20 - 64 % in labor force	?
+S2301_C02_022E		DK	115	114		male pop. 20 - 64 % in labor force	?
+S2301_C02_023E		DM	117	116		female pop. 20 - 64 % in labor force	?
+S2301_C02_028E		DW	127	126		20 - 64 % in labor force < pov lev 12 m ?
+S2301_C02_029E		DY	129	128		20 - 64 % in labor force >= pov lev 12 m?
+S2301_C02_031E		EC	133	132		25 - 64 % in labor force education level?
+S2301_C02_032E		EE	135	134		25 - 64 % in lf < high school		?
+S2301_C02_033E		EG	137	136		25 - 64 % in lf = high school		?
+S2301_C02_034E		EI	139	137		25 - 64 % in lf <= AA			?
+S2301_C02_035E		EK	141	140		25 - 64 % in lf >= BA			?
+
+
+
+
+
+
+Bucketing by age. Data set provides the following buckets:
+	- 16 - 19
+	- 20 - 64

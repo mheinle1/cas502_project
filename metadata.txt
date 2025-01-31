@@ -1,6 +1,7 @@
 This document is intended as a metadata repository for data sources used in the project.
 
 Each data source entry should contain:
+- Data Source ID: two digit sequential index.
 - Source Name: Alias name for ease of communication
 - Origin Name: The original designation of the data source
 - Origin: url for relocating data source
@@ -10,3 +11,21 @@ Each data source entry should contain:
     description sheet if available.
 - Children: names of aggregate, manipulated, or derived data sets used in project.
 
+
+Data Source ID: 01
+Source Name: SNAP/Food Stamps, Census
+Origin Name: ACSST5Y2023.S2201.csv
+Origin: https://data.census.gov/table/ACSST5Y2023.S2201?g=010XX00US$1400000&y=2023
+Acquisition Date: 01292025
+Acquired By: mheinle
+Brief Description: Raw pull of SNAP/Food stamp benefits estimated for year 2023. Metadata file: ACSST5Y2023.2201-Column-Metadata
+Children:
+
+Data Source ID: 02
+Source Name: Unemployment
+Origin Name: ACSST5Y2023.2301.csv 
+Origin: https://data.census.gov/table/ACSST5Y2023.S2301?g=010XX00US$1400000&y=2023
+Acquisition Date: 01302025
+Acquired By: mheinle
+Brief Description: Raw pull of Unemployment status estimated for year 2023. Metadata file: ACSST5Y2023.2301-Column-Metadata
+Children:
