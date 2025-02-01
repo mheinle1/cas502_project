@@ -46,7 +46,46 @@ S2301_C02_032E		EE	135	134		25 - 64 % in lf < high school		?
 S2301_C02_033E		EG	137	136		25 - 64 % in lf = high school		?
 S2301_C02_034E		EI	139	137		25 - 64 % in lf <= AA			?
 S2301_C02_035E		EK	141	140		25 - 64 % in lf >= BA			?
-
+S2301_C03_002E		EO	145	144		16 - 19 % of lf employed		?
+S2301_C03_003E		EQ	147	146		20 - 24 % of lf employed		?
+S2301_C03_004E		ES	149	148		25 - 29 % of lf employed		?
+S2301_C03_005E		EU	151	150		30 - 34 % of lf employed		?
+S2301_C03_006E		EW	153	152		35 - 44 % of lf employed		?
+S2301_C03_007E		EY	155	154		45 - 54 % of lf employed		?
+S2301_C03_008E		FA	157	156		55 - 59 % of lf employed		?
+S2301_C03_009E		FC	159	158		60 - 64 % of lf employed		?
+S2301_C03_010E		FE	161	160		65 - 74 % of lf employed		?
+S2301_C03_011E		FG	163	162		>= 75 % of lf employed			?
+S2301_C03_021E		GA	183	182		20 - 64 % of lf employed		?
+S2301_C03_022E		GC	185	184		20 - 64 % of lf employed, male		?
+S2301_C03_023E		GE	187	186		20 - 64 % of lf employed, female	?
+S2301_C03_028E		GO	197	196		20 - 64 % of lf employed, < pov lev	?
+S2301_C03_029E		GQ	199	198		20 - 64 % of lf employed, >= pov lev	?
+S2301_C03_031E		GU	203	202		25 - 64 % of lf employed, edu. known	?
+S2301_C03_032E		GW	205	204		25 - 64 % of lf employed < high school	?
+S2301_C03_033E		GY	207	206		25 - 64 % of lf employed = high school	?
+S2301_C03_034E		HA	209	208		25 - 64 % of lf employed <= AA		?
+S2301_C03_035E		HC	211	210		25 - 64 % of lf employed >= BA		?
+S2301_C04_002E		HG	215	214		unemploy rate 16 - 19			?
+S2301_C04_003E		HI	217	216		unemploy rate 20 - 24			?
+S2301_C04_004E		HK	219	218		unemploy rate 25 - 29			?
+S2301_C04_005E		HM	221	220		unemploy rate 30 - 34			?
+S2301_C04_006E		HO	223	222		unemploy rate 35 - 44			?
+S2301_C04_007E		HQ	225	224		unemploy rate 45 - 54			?
+S2301_C04_008E		HS	227	226		unemploy rate 55 - 59			?
+S2301_C04_009E		HU	229	228		unemploy rate 60 - 64			?
+S2301_C04_010E		HW	231	230		unemploy rate 65 - 74			?
+S2301_C04_011E		HY	233	232		unemploy rate >= 75			?
+S2301_C04_021E		IS	253	252		20 - 64 % of lf unemployed		?
+S2301_C04_022E		IU	255	254		20 - 64 % of lf unemployed, male	?
+S2301_C04_023E		IW	257	256		20 - 64 % of lf unemployed, female	?
+S2301_C04_028E		JG	267	266		20 - 64 % lf unemployed < pov lev	?
+S2301_C04_029E		JI	269	268		20 - 64 % lf unemployed >= pov lev	?
+S2301_C04_031E		JM	273	272		25 - 64 % unemployed with edu. known	?
+S2301_C04_032E		JO	275	274		25 - 64 % unemployed < high school	?
+S2301_C04_033E		JQ	277	276		25 - 64 % unemployed = high school	?
+S2301_C04_034E		JS	279	278		25 - 64 % unemployed <= AA		?
+S2301_C04_035E		JU	281	280		25 - 64 % unemployed >= BA		?
 
 
 
