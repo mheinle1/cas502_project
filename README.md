@@ -15,3 +15,9 @@ inconsistencies of this type, their cost is generally prohibitive and their use 
 professionals, potentially limiting reach and audience. We will instead opt for the creation of crosswalks between 
 the various geographic identifiers. This will likely lead to a reduction in the total levels of granularity available
  to end users, but will ensure a broader reach while still providing a viable framework for expansion in the future.
+
+Communication Plan: Our plan for coordination is regular ad hoc Slack updates as we work asynchronously with 
+dedicated Sunday zoom calls to go over anything that may be falling back, ensure we are on azimuth for completion, 
+and discuss any other improvements we can make to represent the data as well as possible. Mike will implement and 
+share a Git repository for data, code, documentation, and version control. We will hold 1 long initial planning
+meeting to line out the steps and divide work evenly.
