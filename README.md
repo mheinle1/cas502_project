@@ -21,3 +21,8 @@ dedicated Sunday zoom calls to go over anything that may be falling back, ensure
 and discuss any other improvements we can make to represent the data as well as possible. Mike will implement and 
 share a Git repository for data, code, documentation, and version control. We will hold 1 long initial planning
 meeting to line out the steps and divide work evenly.
+
+Branching Implementation: Current plan is not to implement branching initially. Should we encounter an approach 
+that makes sense for branching, we will implement at that time. Situations that may require branching considerations
+include Zach getting stuck and needing outside assistance/Mike's help, divergent data sets that can and should be worked
+independently, or parallel efforts on disparate solutions to determine the most effective.
