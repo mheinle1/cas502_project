@@ -15,5 +15,9 @@ $mkdir process_data/
 $py
 >>>import pandas
 >>>import numpy
+>>>import matplotlib.pyplot as plt
+>>>import geopandas as gpd
+>>>from pathlib import Path
+>>>from shapely.geometry import Point, Polygon
 >>>quit
 
