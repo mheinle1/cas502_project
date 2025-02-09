@@ -25,4 +25,4 @@ meeting to line out the steps and divide work evenly.
 Branching Implementation: Current plan is not to implement branching initially. Should we encounter an approach 
 that makes sense for branching, we will implement at that time. Situations that may require branching considerations
 include Zach getting stuck and needing outside assistance/Mike's help, divergent data sets that can and should be worked
-independently, or parallel efforts on disparate solutions to determine the most effective.
+independently, or parallel efforts on disparate solutions to determine the most effective.  
