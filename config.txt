@@ -1,0 +1,19 @@
+#This is an attempt at a first pass for a config file
+
+$cd cas502_project/
+
+#create directory for raw data files
+
+$mkdir rawdata/
+
+#create directory for processed data files
+
+$mkdir process_data/
+
+#Set up python environment
+
+$py
+>>>import pandas
+>>>import numpy
+>>>quit
+
