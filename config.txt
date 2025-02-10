@@ -19,5 +19,21 @@ $py
 >>>import geopandas as gpd
 >>>from pathlib import Path
 >>>from shapely.geometry import Point, Polygon
+
+#module for viewing .shp files in python or jupyter notebook and saving a large .png file
+   >>>soil_map = gpd.read_file(r"C:\filepath\file.shp")
+   >>>soil_map.plot(figsize=(40, 36))
+   >>>plt.savefig('soil_map.png' , dpi=1500)
+
+#module for converting shapefile to .csv files for editing
+   >>>shp_file = Path(r"C:\Users\filepath\file.shp")
+   >>>csv_file = Path(r"C:\Users\filepath\output.csv")
+   >>>def shp_to_csv(shp_file, csv_file):
+       # Load the shapefile
+       >>>gdf = gpd.read_file(shp_file)    
+       >>>gdf.to_csv(csv_file, index=False)
+       >>>print(f"Successfully converted {shp_file} to {csv_file}")
+   >>>shp_to_csv(shp_file, csv_file)
+
 >>>quit
 
