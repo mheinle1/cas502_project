@@ -1,5 +1,7 @@
 Spring 2025 - CAS502 - Team Project
 
+Written for Python version: 3.13.1
+
 Members: Z. Hofstra, M. Heinle
 
 Project Title: Facets of Poverty in the United States
