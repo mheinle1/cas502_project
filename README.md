@@ -13,7 +13,7 @@ Project code has been developed using easily accessible, historically stable, co
 The data sources used for the project come from two primary sources; the [U.S.D.A. Web Soil Survey](https://websoilsurvey.nrcs.usda.gov/app/), and the [U.S. Census/American Community Survey](https://data.census.gov/). The first provides environmental health and environmental resource availability. The latter covers a broad spectrum of social, demographic, and economic aspects. **Data sets required to run project code can be acquired using the links below.**
 
 #### U.S.D.A
- - **NEED SPECIFIC LINK HERE IF AVAILABLE**
+ - [Soil Survey Data](https://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx)
 
 #### U.S. Census/American Community Survey
  - [Selected Housing Characteristics](https://data.census.gov/table?q=home+ownership&g=010XX00US$0500000)
