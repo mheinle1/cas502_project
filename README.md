@@ -1,30 +1,22 @@
-Spring 2025 - CAS502 - Team Project
+# Aspects of Poverty Analyzer
 
-Written for Python version: 3.13.1
+## Developers
+This project was created as part of a team assignment for ASU Spring 2025 course CAS502: Computation. Methodology and code are developed by [Zachary Hofstra](https://github.com/zachofstra) and [Michael Heinle](https://github.com/mheinle1). Please report bugs to the project [GitHub repository](https://github.com/mheinle1/cas502_project). Similarly, any additional feature requests may be submitted to the repositoty as well.
 
-Members: Z. Hofstra, M. Heinle
+## Project Overview
+This core concept of this project is to develop a way to examine levels and aspects of poverty as experienced by various communities across the United States. While two communities may experience similar levels of poverty, the attributes, or what poverty looks like in each community, may be very different. This project offers a framework for comparing and contrasting the various 'faces' of poverty by focussing on a select catalog of environmental, social, and economic factors that we hope will allow users to go beyond the standard and often used dichotomies of urban vs rural, white vs non-white communities, coastal vs interior geographies, etc. 
 
-Project Title: Facets of Poverty in the United States
+## Data Overview
+Project code has been developed using easily accessible, historically stable, consistent, and regularly updated data sources with the hope that this will lend stability and longevity to the project and provide a highly customizable user experience. Additionally, all data sources have geographic components to allow mapping of the data at multiple levels of granularity (i.e. state, county, census tract) and code can be easily modified to fit user needs in this regard. 
 
-Description: This project is an exploritory inquery into the various 
-faces and facets of poverty in the United States.
+### Data Sources and Acquisition
+The data sources used for the project come from two primary sources; the [U.S.D.A. Web Soil Survey](https://websoilsurvey.nrcs.usda.gov/app/), and the [U.S. Census/American Community Survey](https://data.census.gov/). The first provides environmental health and environmental resource availability. The latter covers a broad spectrum of social, demographic, and economic aspects. **Data sets required to run project code can be acquired using the links below.**
 
-Challenges: A technical challenge we foresee is correlating all the data with geographic coordinates. While census 
-and ACS (American Community Surveys) data employ the census block/census tract geographic identifiers, their use is 
-not as common in medical (preferring ZICTA schema), agricultural, and social data sets, even those originating from 
-Federal sources. While specialized tools and software (e.g. ArcGIS) exist specifically to mitigate data 
-inconsistencies of this type, their cost is generally prohibitive and their use falls more within the domain of 
-professionals, potentially limiting reach and audience. We will instead opt for the creation of crosswalks between 
-the various geographic identifiers. This will likely lead to a reduction in the total levels of granularity available
- to end users, but will ensure a broader reach while still providing a viable framework for expansion in the future.
+#### U.S.D.A
+ - [Soil Survey Data](https://websoilsurvey.nrcs.usda.gov/app/WebSoilSurvey.aspx)
 
-Communication Plan: Our plan for coordination is regular ad hoc Slack updates as we work asynchronously with 
-dedicated Sunday zoom calls to go over anything that may be falling back, ensure we are on azimuth for completion, 
-and discuss any other improvements we can make to represent the data as well as possible. Mike will implement and 
-share a Git repository for data, code, documentation, and version control. We will hold 1 long initial planning
-meeting to line out the steps and divide work evenly.
-
-Branching Implementation: Current plan is not to implement branching initially. Should we encounter an approach 
-that makes sense for branching, we will implement at that time. Situations that may require branching considerations
-include Zach getting stuck and needing outside assistance/Mike's help, divergent data sets that can and should be worked
-independently, or parallel efforts on disparate solutions to determine the most effective.  
+#### U.S. Census/American Community Survey
+ - [Selected Housing Characteristics](https://data.census.gov/table?q=home+ownership&g=010XX00US$0500000)
+ - [Food Stamps/Supplemental Nutrition Assistance Program](https://data.census.gov/table/ACSST5Y2023.S2201?q=snap&g=010XX00US$0500000)
+ - [Employment Status](https://data.census.gov/table/ACSST5Y2023.S2301?q=employment&g=010XX00US$0500000)
+ - [Educational Attainment](https://data.census.gov/table/ACSST5Y2023.S1501?q=education&g=010XX00US$0500000)
