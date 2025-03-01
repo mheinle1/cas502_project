@@ -8,7 +8,7 @@ authors:
   given-names: "Zachary"
   orcid: "https://github.com/zachofstra"
 title: "Aspects of Poverty Analyzer"
-version: 1.0.0
+version: 0.1.0
 doi: 10.5281/zenodo.1234
 date-released: 2025-02-28
 url: "https://github.com/mheinle1/cas502_project"
