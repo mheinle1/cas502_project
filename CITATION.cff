@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "Please use the citation information below if you use this software or cite this repository's content"
+authors:
+- family-names: "Heinle"
+  given-names: "Michael"
+  orcid: "https://github.com/mheinle1"
+- family-names: "Hofstra"
+  given-names: "Zachary"
+  orcid: "https://github.com/zachofstra"
+title: "Aspects of Poverty Analyzer"
+version: 0.1.0
+doi: 10.5281/zenodo.1234
+date-released: 2025-02-28
+url: "https://github.com/mheinle1/cas502_project"

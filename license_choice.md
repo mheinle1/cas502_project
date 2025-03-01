@@ -1,0 +1,3 @@
+## Brief Explanation of License Choice
+
+For our team, thoughts about licensing, trademark, and copyright are new issues. We both gravitated toward license structures that committed project code to the public domain and allowed for broadest application and re-use while ensuring that the code could not be claimed or its use and distribution hindered. Our team discussed both CC0 and the Unlicense. After performing a bit of web research, the consensus among the sources we interrogated was that CC0 was more robust and had a more well established legal history at this time. We also preferred the additional liability protection that, at least in appearance, is offered by CC0.  
