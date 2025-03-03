@@ -41,6 +41,8 @@ For our team, thoughts about licensing, trademark, and copyright are new issues.
 
 #### [Cite this Project](https://github.com/mheinle1/cas502_project/blob/main/CITATION.cff)
 
+#### [DOI: 10.5281/zenodo.14962336](https://doi.org/10.5281/zenodo.14962336)
+
 ## Aspects of Poverty Analyzer Project Reflection
 
 ### What Tools Helped and Which Did Not?
