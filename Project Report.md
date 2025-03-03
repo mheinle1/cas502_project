@@ -32,7 +32,8 @@ For our team, thoughts about licensing, trademark, and copyright are new issues.
 
 
 ## Documentation
-- User Documentation
+- [User Documentation](https://github.com/mheinle1/cas502_project/wiki)
+    - [Dependencies](https://github.com/mheinle1/cas502_project/blob/main/requirements.txt)
 - [Installation Instructions](https://github.com/mheinle1/cas502_project/blob/main/INSTALL.txt)
 - [Testing](https://github.com/mheinle1/cas502_project/tree/main/tests)
 
